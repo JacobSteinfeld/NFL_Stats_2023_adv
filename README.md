@@ -13,9 +13,6 @@ This repository provides a set of tools for analyzing NFL data, creating informa
 
 - **Graphs and Visualizations**: The repository offers tools to create informative graphs and visualizations that help us understand how different teams and players are performing in the NFL.
 
-- **Machine Learning Predictions**: I leverage advanced analytics, including statistics like EPA (Expected Points Added), to develop machine learning models. These models provide weekly predictions for each game, offering valuable insights for NFL enthusiasts, fantasy football players, and analysts.
-
-
 - ## Visualizing Team Stats Based on EPA (Expected Points Added)
 
 
