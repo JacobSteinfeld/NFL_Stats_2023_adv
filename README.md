@@ -28,7 +28,7 @@ This repository provides a set of tools for analyzing NFL data, creating informa
 - The higher the EPA for Offense, the better.
 - THe lower the EPA for Defense, the better.
 
-![Total EPA Graph](graphs_rb/total_epa.png)
+![Total EPA Graph](total_epa.png)
 
 
 In this graph, I measure a teams Offensive Efficiency Vs. a Defensive Effeciency based on total EPA both.
